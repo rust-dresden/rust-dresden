@@ -1,5 +1,5 @@
 ## Rust Dresden coming soon ...
 
-Please see our [announcement in
-discussions](https://github.com/rust-dresden/rust-dresden/discussions/1) for
-more information and subscribe to it for updates.
+Please see our
+[announcement](https://github.com/rust-dresden/rust-dresden/discussions/1) in
+the discussions for more information and subscribe to it for receiving updates.
